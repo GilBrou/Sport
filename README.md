@@ -75,10 +75,3 @@ L'application est maintenant disponible à l'adresse : `http://localhost:3002`.
 Il existe deux utilisateurs différents :
     - `http://localhost:3002/18`
     - `http://localhost:3002/12`
-
-
-
-
-
-
-# Sport
